@@ -19,17 +19,9 @@ The following **optional** features are implemented:
 * [x] Improvement of UI/UX of the app including the spacing and font
 
 ## Video Walkthrough
-
-Here's a walkthrough of implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![](https://github.com/kelly0921/HelloWorld/blob/master/walkthrough.gif)
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [LiceCap](http://www.cockos.com/licecap/).  
-<!-- Other options include:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
